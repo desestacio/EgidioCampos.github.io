@@ -122,4 +122,5 @@ footer ul li {
 }
 
 @media {
+  min-width: 576px;
 }
